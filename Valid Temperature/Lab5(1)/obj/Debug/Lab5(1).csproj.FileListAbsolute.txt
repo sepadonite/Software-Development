@@ -1,0 +1,16 @@
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\bin\Debug\Lab5(1).exe.config
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\bin\Debug\Lab5(1).exe
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\bin\Debug\Lab5(1).pdb
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).csproj.AssemblyReference.cache
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).csproj.CoreCompileInputs.cache
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).exe
+C:\Users\Michelle\source\repos\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).pdb
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\bin\Debug\Lab5(1).exe.config
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\bin\Debug\Lab5(1).exe
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\bin\Debug\Lab5(1).pdb
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).csproj.AssemblyReference.cache
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).csproj.CoreCompileInputs.cache
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).exe
+C:\Users\Michelle\Desktop\Lab5(1)\Lab5(1)\obj\Debug\Lab5(1).pdb

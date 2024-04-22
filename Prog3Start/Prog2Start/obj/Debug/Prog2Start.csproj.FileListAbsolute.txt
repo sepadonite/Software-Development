@@ -1,0 +1,13 @@
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\bin\Debug\Prog2Start.exe.config
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\bin\Debug\Prog2Start.exe
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\bin\Debug\Prog2Start.pdb
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.csprojAssemblyReference.cache
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.computerViewForm.resources
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.Properties.Resources.resources
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.csproj.GenerateResource.cache
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.csproj.CoreCompileInputs.cache
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.exe
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.pdb
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.TowerForm.resources
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.AllInOneForm.resources
+C:\Users\kac67\Documents\School\200 F23\Source\Prog2Solution\Prog2Start\obj\Debug\Prog2Start.LaptopForm.resources

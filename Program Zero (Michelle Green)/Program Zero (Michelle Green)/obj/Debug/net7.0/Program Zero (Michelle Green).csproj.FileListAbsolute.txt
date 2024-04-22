@@ -1,0 +1,5 @@
+/Users/homebase/Projects/Program Zero (Michelle Green)/Program Zero (Michelle Green)/obj/Debug/net7.0/Program Zero (Michelle Green).csproj.AssemblyReference.cache
+/Users/homebase/Projects/Program Zero (Michelle Green)/Program Zero (Michelle Green)/obj/Debug/net7.0/Program Zero (Michelle Green).GeneratedMSBuildEditorConfig.editorconfig
+/Users/homebase/Projects/Program Zero (Michelle Green)/Program Zero (Michelle Green)/obj/Debug/net7.0/Program Zero (Michelle Green).AssemblyInfoInputs.cache
+/Users/homebase/Projects/Program Zero (Michelle Green)/Program Zero (Michelle Green)/obj/Debug/net7.0/Program Zero (Michelle Green).AssemblyInfo.cs
+/Users/homebase/Projects/Program Zero (Michelle Green)/Program Zero (Michelle Green)/obj/Debug/net7.0/Program Zero (Michelle Green).csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.csprojAssemblyReference.cache
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.csproj.CoreCompileInputs.cache
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/bin/Debug/CIS200LINQPractice.exe.config
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/bin/Debug/CIS200LINQPractice.exe
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/bin/Debug/CIS200LINQPractice.pdb
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.exe
+C:/Users/kac67/Documents/School/200 F23/Source/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.pdb
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/bin/Debug/CIS200LINQPractice.exe.config
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/bin/Debug/CIS200LINQPractice.exe
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/bin/Debug/CIS200LINQPractice.pdb
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.csproj.AssemblyReference.cache
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.csproj.CoreCompileInputs.cache
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.exe
+/Users/homebase/Desktop/school/CIS 200/CIS200LINQPractice/CIS200LINQPractice/obj/Debug/CIS200LINQPractice.pdb
